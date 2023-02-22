@@ -4,7 +4,7 @@
 
 Projeto desenvolvido no evento Next Level Week da Rocketseat
 
-![preview](./.github/preview.png)
+![preview](./preview.png)
 
 [🔗 CLIQUE AQUI PARA ACESSAR](https://godinhocode.github.io/eEsports/)
 
